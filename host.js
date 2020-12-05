@@ -1,0 +1,1 @@
+var host = "https://password-reset-yesh.herokuapp.com/";
